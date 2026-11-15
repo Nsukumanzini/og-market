@@ -1,0 +1,11 @@
+{
+  "name": "Gijima Mfana",
+  "short_name": "Gijima Mfana",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#087F5B",
+  "description": "Offline marketplace prototype",
+  "orientation": "any",
+  "prefer_related_applications": false
+}

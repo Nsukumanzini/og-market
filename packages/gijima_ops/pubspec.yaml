@@ -1,0 +1,11 @@
+name: gijima_ops
+description: Shared offline role dashboard components for Gijima Mfana.
+publish_to: 'none'
+version: 0.1.0
+environment:
+  sdk: ^3.11.3
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true

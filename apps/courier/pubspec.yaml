@@ -1,0 +1,13 @@
+name: gijima_courier
+description: Gijima Mfana courier demo.
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: ^3.11.3
+dependencies:
+  flutter:
+    sdk: flutter
+  gijima_ops:
+    path: ../../packages/gijima_ops
+flutter:
+  uses-material-design: true
